@@ -1,12 +1,14 @@
 
 ## 🚀 Sobre mi
+• Trabajo actualmente en Practical Solutions como programador trainee back end (Lenguaje SAP abap).
 
-        • Trabajo actualmente en Practical Solutions 
-        como programador trainee back end (Lenguaje SAP abap).
-        • Persona motivada y disciplinada.
-        • Ganas de aprender y profesionalizarme.
-        • Habilidades para explicar y enseñar.
-        • Compromiso y prolijidad a la hora de trabajar.
+• Persona motivada y disciplinada.
+
+• Ganas de aprender y profesionalizarme.
+
+• Habilidades para explicar y enseñar.
+
+• Compromiso y prolijidad a la hora de trabajar.
 ## 🛠 Skills
 ✔ Html
 ✔ Css
